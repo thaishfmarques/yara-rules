@@ -19,3 +19,6 @@ fonte: https://dasmalwerk.eu/
 
 As análises no any.run identificaram trackers dos malwares como AgentTesla, um trojan keylogger  
 As amostras podem ser coletadas na análise completa do ANY.run  
+
+POC
+![](https://github.com/thaishfmarques/yara-rules/blob/main/poc.png "POC")
